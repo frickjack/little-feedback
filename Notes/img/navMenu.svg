@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5895"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="navMenu.svg">
+  <defs
+     id="defs5889" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="32.857143"
+     inkscape:cy="260.33746"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g6483-0"
+     showgrid="false"
+     inkscape:window-width="1144"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5892">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.7797618,39.220237 H 205.61905"
+       id="path6453"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6483">
+      <rect
+         y="3.931073"
+         x="2.5084543"
+         height="34.292637"
+         width="204.38188"
+         id="rect6440"
+         style="opacity:1;fill:#a0ada0;fill-opacity:0.75609753;stroke:#401717;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.72328665,0,0,0.49892094,5.9457471,-4.4603287)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:185.39999723%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6470"
+         xml:space="preserve"><flowRegion
+           style="line-height:185.39999723%"
+           id="flowRegion6472"><rect
+             style="line-height:185.39999723%"
+             y="14.857598"
+             x="9.480772"
+             height="129.60997"
+             width="772.46698"
+             id="rect6474" /></flowRegion><flowPara
+           id="flowPara6476">InBox</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(0,34.292636)"
+       id="g6483-2">
+      <rect
+         y="3.931073"
+         x="2.5084543"
+         height="34.292637"
+         width="204.38188"
+         id="rect6440-7"
+         style="opacity:1;fill:#a0ada0;fill-opacity:0.75609753;stroke:#401717;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.72328665,0,0,0.49892094,5.9457471,-4.4603287)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:185.39999723%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6470-0"
+         xml:space="preserve"><flowRegion
+           style="line-height:185.39999723%"
+           id="flowRegion6472-9"><rect
+             style="line-height:185.39999723%"
+             y="14.857598"
+             x="9.480772"
+             height="129.60997"
+             width="772.46698"
+             id="rect6474-3" /></flowRegion><flowPara
+           id="flowPara6476-6">OutBox</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(0,68.585272)"
+       id="g6483-0">
+      <rect
+         y="3.931073"
+         x="2.5084543"
+         height="34.292637"
+         width="204.38188"
+         id="rect6440-6"
+         style="opacity:1;fill:#a0ada0;fill-opacity:0.75609753;stroke:#401717;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.72328665,0,0,0.49892094,5.9457471,-4.4603287)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:185.39999723%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6470-2"
+         xml:space="preserve"><flowRegion
+           style="line-height:185.39999723%"
+           id="flowRegion6472-6"><rect
+             style="line-height:185.39999723%"
+             y="14.857598"
+             x="9.480772"
+             height="129.60997"
+             width="772.46698"
+             id="rect6474-1" /></flowRegion><flowPara
+           id="flowPara6476-8">Teams</flowPara></flowRoot>    </g>
+  </g>
+</svg>

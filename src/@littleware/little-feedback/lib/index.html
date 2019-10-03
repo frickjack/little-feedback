@@ -1,0 +1,25 @@
+{% block head %}
+       <title>little-apps test suite</title>
+        
+        <link rel="stylesheet" type="text/css" href="../../../jasmine-core/lib/jasmine-core/jasmine.css" />
+        <script src="../../../jasmine-core/lib/jasmine-core/jasmine.js"></script>
+        <script src="../../../jasmine-core/lib/jasmine-core/jasmine-html.js"></script>
+        <script src="../../little-elements/web/lib/test/littleJasmineBoot.js"></script>
+{% endblock %}
+
+{% block content %}
+        <section id="index">
+            <h2>little web components index</h2>
+        
+            <ul>
+                <li><a href="./headerSimple/index.html">lw-header-simple</a></li>
+                <li><a href="./jwt/index.html">lw-jwt</a></li>
+                <li><a href="./511/index.html">lw-511</a></li>
+            </ul>
+        </section>
+        <section id="testSuite">
+
+        </section>
+
+        <script type="module" src="./testMain.js"></script>
+{% endblock %}
