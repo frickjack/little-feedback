@@ -33,8 +33,8 @@
      showgrid="false"
      inkscape:window-width="829"
      inkscape:window-height="665"
-     inkscape:window-x="87"
-     inkscape:window-y="103"
+     inkscape:window-x="413"
+     inkscape:window-y="174"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3864">
@@ -91,5 +91,98 @@
              width="151.42857"
              id="rect4428" /></flowRegion><flowPara
            id="flowPara4430">New</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(-0.73670304,20.429963)"
+       id="g3044-2-4">
+      <rect
+         y="1.4033695"
+         x="0.73670304"
+         height="83.949203"
+         width="210.19325"
+         id="rect2918-0-5"
+         style="opacity:1;fill:#d0ff5a;fill-opacity:0.75609753;stroke:#401717;stroke-width:1.46150124;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.30191111,0,0,0.30273221,-8.700508,-7.1044835)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot2939-2-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2941-3-3"><rect
+             y="42.519684"
+             x="48.57143"
+             height="153.89052"
+             width="354.86774"
+             id="rect2943-7-6" /></flowRegion><flowPara
+           id="flowPara2945-5-1">Organization</flowPara><flowPara
+           id="flowPara3571">Type</flowPara><flowPara
+           id="flowPara2949-2-0">State</flowPara><flowPara
+           id="flowPara2951-2-6" /><flowPara
+           id="flowPara2953-8-3" /></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,0.75595238,-10.583333)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot2979-9-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2981-7-0"><rect
+             y="56.805397"
+             x="454.28571"
+             height="182.16417"
+             width="316.44986"
+             id="rect2983-3-6" /></flowRegion><flowPara
+           id="flowPara2989-6-1">start - end date</flowPara><flowPara
+           id="flowPara2993-2-5">Location name</flowPara><flowPara
+           id="flowPara7876">exp countdown</flowPara><flowPara
+           id="flowPara2987-9-5">  </flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,0.75595238,-18.974402)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3013-3-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3015-1-7"><rect
+             y="273.94824"
+             x="28.571428"
+             height="134.35843"
+             width="765.78705"
+             id="rect3017-9-6" /></flowRegion><flowPara
+           id="flowPara3021-7-5">Description: swipe to dismiss, click to open for details and accept</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(4.9523809e-6,145.52083)"
+       id="g4442-9"
+       inkscape:transform-center-x="8.3154762"
+       inkscape:transform-center-y="-6.047619">
+      <rect
+         y="-1.6011904"
+         x="0"
+         height="23.434523"
+         width="211.66666"
+         id="rect4412-2"
+         style="opacity:1;fill:#0ebebe;fill-opacity:0.75609753;stroke:#401717;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-6.879167,1.5875)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4414-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4416-6"><rect
+             y="11.091114"
+             x="60"
+             height="57.142857"
+             width="485.71429"
+             id="rect4418-8" /></flowRegion><flowPara
+           id="flowPara4420-9">+ CPD</flowPara></flowRoot>      <ellipse
+         ry="10.695201"
+         rx="29.594006"
+         cy="10.872023"
+         cx="176.51488"
+         id="path4422-2"
+         style="opacity:1;fill:#00d700;fill-opacity:0.75609753;stroke:#401717;stroke-width:2.03221488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,6.879167,2.6458334)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4424-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4426-6"><rect
+             y="8.2339706"
+             x="588.57141"
+             height="60"
+             width="151.42857"
+             id="rect4428-4" /></flowRegion><flowPara
+           id="flowPara4430-9">New</flowPara></flowRoot>    </g>
   </g>
 </svg>
