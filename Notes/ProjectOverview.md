@@ -19,7 +19,28 @@ He clicks the `New Offer` button.
 
 An automated CICD pipeline needs approval before updating production.
 
+### Pizza or Tacos
+
+Mary wants to know how many of her team want pizza or tacos for lunch.
+
 ## UX breakdown
+
+Inkscape demo
+
+### InBox
+
+### OutBox
+
+### Teams
+
+Filter users by label
+
+## Questions 
+
+### Is this better than chat?
+
+Just put everyone in Google Chat or Slack.
+Could implement some kind of a bot?
 
 ## Data model
 
@@ -36,7 +57,7 @@ An automated CICD pipeline needs approval before updating production.
     - team
 
 
-## Offer State machine
+## State machine
 
 * Open
 * Applied
